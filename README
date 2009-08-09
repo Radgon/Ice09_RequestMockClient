@@ -1,3 +1,6 @@
 #############################
 # Sample Code for Blog post #
 #############################
+
+1. mvn clean install
+2. in "target" directory, the shaded jar can be startet with java -jar request-mock-client-0.0.1-SNAPSHOT.jar http://localhost:8080 SAMPLEINPUTFILE
